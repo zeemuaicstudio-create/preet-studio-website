@@ -1,6 +1,6 @@
 PREET STUDIO WEBSITE - SETUP GUIDE
 
-1. सबसे पहले index.html और script.js में 919999999999 की जगह अपना WhatsApp नंबर डालें।
+1. सबसे पहले index.html और script.js में 917372930026 की जगह अपना WhatsApp नंबर डालें।
 2. index.html में फोन नंबर, ईमेल, Instagram और address बदलें।
 3. अपनी photos लगाने के लिए:
    - एक "images" folder बनाएं।
